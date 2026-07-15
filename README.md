@@ -1,3 +1,4 @@
+<div align="center">
 Olá, eu sou o João 👋
 
 Estudante de Estatística @ Unicamp · Data Science & Machine Learning
@@ -7,7 +8,7 @@ Estudante de Estatística @ Unicamp · Data Science & Machine Learning
 Sobre mim
 
 
-🎓 Bacharelado em Estatística na Unicamp, com background anterior em Engenharia Mecânica
+🎓 Bacharelado em Estatística na Unicamp
 🔬 Pesquisador PIBIC/CNPq na Embrapa
 📊 Interesses: Machine Learning, Ciência de Dados e Finanças Quantitativas
 🌱 Sempre estudando algo novo em Python, R ou estatística aplicada
@@ -24,6 +25,7 @@ GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmatoso&layout=compact&hide_border=true&hide_title=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&hide_title=true" width="30%" />
 </div>
 <br>
+Contato
